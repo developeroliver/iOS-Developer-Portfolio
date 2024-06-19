@@ -1,4 +1,4 @@
-# iOS-Developer-Portfolio
+![White Minimalist Elegant Neutral LinkedIn Banner](https://github.com/developeroliver/iOS-Developer-Portfolio/assets/92441827/647177b6-c4a7-4a82-9e91-c47a9ba95e98) 
 
 # [Chronologie](https://apps.apple.com/us/app/clockology/id1456386228)
 
