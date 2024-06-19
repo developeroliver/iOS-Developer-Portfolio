@@ -20,3 +20,21 @@ Vraiment content de ma première application publiée sur l'App Store.
 - 💾 App Storage
 - 🎵 AV Player
   
+(Egg Cooker)
+Egg Cooker est ma deuxième application sur l'App Store. Cette application permet de savoir quand ces oeufs sont cuits grace à un décompte et permet à l'utilisateur de recevoir une notification.
+
+<p align="center">
+<img src="https://github.com/developeroliver/iOS-Developer-Portfolio/assets/92441827/0e9603a3-979b-45eb-822a-fdc8c4d6dc6b", width="200"/>
+<img src="https://github.com/developeroliver/iOS-Developer-Portfolio/assets/92441827/ddd37b04-ab29-42b4-adfb-7d6734e4391f", width="200"/>
+<img src="https://github.com/developeroliver/iOS-Developer-Portfolio/assets/92441827/fb124a17-80c2-4d87-bf75-4c1178a73bc1", width="200"/>
+<img src="https://github.com/developeroliver/iOS-Developer-Portfolio/assets/92441827/b32875b0-82d4-4a09-83c3-78ba3a41f0eb", width="200"/>
+</p>
+
+**Tech Used**
+- 🎨 SwiftUI
+- 🎬 Core Animation
+- 💾 App Storage
+- 🎵 AV Player
+- 🔔 UserNotifications
+- ⏱️ Timer
+  
