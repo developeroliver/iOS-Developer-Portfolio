@@ -3,6 +3,8 @@
 # [Chronologie](https://apps.apple.com/us/app/clockology/id1456386228)
 
 (XO Clash)
+XO Clash est une application que je souhaitais faire depuis longtemps. Quoi de mieux pour travailler l'algorithmie que de faire un jeu ou la logique est partout.
+Vraiment content de ma première application publiée sur l'App Store.
 
 <p align="center">
 <img src="https://github.com/developeroliver/iOS-Developer-Portfolio/assets/92441827/d79c5eae-b698-4b45-a9fc-29c4c6f786bc", width="200"/>
