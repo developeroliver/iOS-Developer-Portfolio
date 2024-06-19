@@ -15,7 +15,7 @@ Vraiment content de ma première application publiée sur l'App Store.
 </p>
 
 **Tech Used**
-- 🎨 UIKit programmatique
+- 🎨 SwiftUI
 - 🎬 Core Animation
 - 💾 App Storage
 - 🎵 AV Player
