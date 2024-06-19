@@ -2,6 +2,11 @@
 
 # [Chronologie](https://apps.apple.com/us/app/clockology/id1456386228)
 
+### À propos de moi
+- 💻 J'ai commencé le développement iOS début 2024/
+- 🖌️ Je suis en grand fan de UIKit de manière programmatique mais j'aime aussi travaillé avec SwiftUI
+- 📱 Je suis auto didacte malgré que j'ai suivie une bootcamp de 6 mois en développement web avec React
+
 (XO Clash)
 XO Clash est une application que je souhaitais faire depuis longtemps. Quoi de mieux pour travailler l'algorithmie que de faire un jeu ou la logique est partout.
 Vraiment content de ma première application publiée sur l'App Store.
